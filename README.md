@@ -13,7 +13,11 @@ _Eduardo R. B. Marques, DCC/FCUP_
 
 ### 0.1. Configuração no repl.it
 
-Certifique-se que a variável de ambiente PATH é configurada por forma a incluir `pcex04/cooperari-0.4/bin`. 
+Certifique-se que a variável de ambiente PATH é configurada
+
+ ```
+ export PATH=$HOME/pcex04/cooperari-0.4/bin:$PATH
+ ```
 
 ### 0.1. Instalação do Cooperari em PC
 
