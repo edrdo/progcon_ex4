@@ -16,7 +16,7 @@ _Eduardo R. B. Marques, DCC/FCUP_
 Certifique-se que a variável de ambiente PATH é configurada
 
  ```
- export PATH=$HOME/pcex04/cooperari-0.4/bin:$PATH
+ export PATH=$HOME/progconex4/cooperari-0.4/bin:$PATH
  ```
 
 ### 0.1. Instalação do Cooperari em PC
