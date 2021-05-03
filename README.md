@@ -19,7 +19,7 @@ Certifique-se que a variável de ambiente PATH é configurada
  export PATH=$HOME/progconex4/cooperari-0.4/bin:$PATH
  ```
 
-### 0.1. Instalação do Cooperari em PC
+### 0.2. Instalação do Cooperari em PC
 
 Se quiser instalar no seu PC siga os passos disponibilizados no guia ["Getting Started"](https://github.com/Cooperari/cooperari/blob/master/GettingStarted.md) para instalar o Cooperari no PC local e testar o funcionamento dos utilitários `cjavac` e `cjunit`.
 
@@ -65,7 +65,7 @@ que o contador foi incrementado em duas unidades).
   }
 ```
 
-Executando no terminal a partir do directório de topo (`pcex3`):
+Executando no terminal a partir do directório de topo:
 
 ```
 cjavac # para compilar ou re-compilar
